@@ -10,3 +10,6 @@
 [submodule "external/GT2N-SI"]
 	path = external/GT2N-SI
 	url = https://github.com/LukeMinivaca85/GT2N-SI.git
+[submodule "external/Gemmini"]
+	path = external/Gemmini
+	url = https://github.com/ucb-bar/gemmini.git
