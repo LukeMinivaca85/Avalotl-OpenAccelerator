@@ -1,0 +1,12 @@
+[submodule "external/GT2N"]
+	path = external/GT2N
+	url = https://github.com/azadnaeemi/GT2N.git
+[submodule "external/OpenROAD"]
+	path = external/OpenROAD
+	url = https://github.com/The-OpenROAD-Project/OpenROAD.git
+[submodule "external/OpenHBM"]
+	path = external/OpenHBM
+	url = https://github.com/Netie-AI/OpenHBM.git
+[submodule "external/GT2N-SI"]
+	path = external/GT2N-SI
+	url = https://github.com/LukeMinivaca85/GT2N-SI.git
